@@ -45,3 +45,6 @@ Deve estar definida em seu sistema, apontando para o path de instalação do JDK
   Guia para instalação do Maven [neste link](https://maven.apache.org/install.html)
 </details>
 
+## Extras
+Dicas e anotações importantes no arquivo [NOTES.md](/NOTES.md)
+
